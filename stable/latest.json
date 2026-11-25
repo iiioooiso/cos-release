@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Added auto-updater",
+  "pub_date": "2026-11-25T07:30:44.561Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM0pEbkpOd2hMeDNiODRBREUwWHFCTkp3MXQyck5YYm02MlFaZ1BhMG5FcVhQbUhodzhZSFArYVdWV1FpY1IwUUNrQ1ZjV1dEY05HeklwZnlXWE1taGlRaXVBV2NMRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTkxODM0CWZpbGU6Y29tbWl0T1NfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCi9BcjJML3lha28yZWREU3MxOXZSNkZTMlZYQ1IxcjhLeXI4VFY5L216eHFhZU1NUlpaYjlwTHIxYVVIWVhIRGxFUFdSRTA2YnBDc2RhMWFZeXd4R0FBPT0K",
+      "url": "https://github.com/iiioooiso/cos-release/releases/download/v0.1.1/commitOS_0.1.1_x64-setup.exe"
+    }
+  }
+}
